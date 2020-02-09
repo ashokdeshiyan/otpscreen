@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">otpscreen</string>
+    <string name="please_enter_4_digit_otp_sent_on_your_registered_phone_number_or_email_id">Please enter 4 digit OTP sent on your registered phone number or email id.</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="please_enter_valid_otp">*Please enter valid OTP.</string>
+</resources>
